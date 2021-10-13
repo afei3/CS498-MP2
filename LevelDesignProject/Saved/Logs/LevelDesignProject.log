@@ -1529,3 +1529,138 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.13-02.49.13:889][505]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.13-02.49.13:889][505]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
 [2021.10.13-02.49.13:889][505]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2021.10.13-02.51.29:164][433]LogMaterial: Display: Missing cached shadermap for M_Bush in PCD3D_SM5, Default, SM5 (DDC key hash: F4477383CF68736DF369DB38B2555A16AC452252), compiling. 
+[2021.10.13-02.51.29:240][433]LogShaderCompilers: Display: Submitted 51 shader compile jobs with 'Low' priority
+[2021.10.13-02.51.29:262][433]LogShaderCompilers: Display: Started 51 'XGE' shader compile jobs with 'Low' priority
+[2021.10.13-02.51.29:269][433]LogActorFactory: Actor Factory created SM_Bush
+[2021.10.13-02.51.29:301][434]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.10.13-02.51.29:301][434]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.10.13-02.51.29:301][434]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.10.13-02.51.29:301][434]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.13-02.51.29:342][435]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.10.13-02.51.29:342][435]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.13-02.51.30:506][505]LogActorFactory: Actor Factory created SM_Bush
+[2021.10.13-02.51.30:854][523]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.10.13-02.51.30:854][523]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.13-02.51.30:863][523]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.13-02.51.30:863][523]LogShaderCompilers: Display: Total job queries 93, among them cache hits 1 (1.08%)
+[2021.10.13-02.51.30:863][523]LogShaderCompilers: Display: Tracking 42 distinct input hashes that result in 28 distinct outputs (66.67%)
+[2021.10.13-02.51.30:863][523]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2021.10.13-02.51.30:863][523]LogShaderCompilers: Display: ================================================
+[2021.10.13-02.51.31:647][570]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.10.13-02.51.31:647][570]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.10.13-02.51.31:647][570]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.10.13-02.51.31:647][570]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.13-02.51.31:972][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.10.13-02.51.31:972][590]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.13-02.51.32:088][597]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.10.13-02.51.32:088][597]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.13-02.51.37:742][934]MapCheck: New page: Map Check
+[2021.10.13-02.51.37:774][934]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.13-02.51.37:774][934]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.13-02.51.37:775][934]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=false
+[2021.10.13-02.51.37:785][934]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.10.13-02.51.37:785][934]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.10.13-02.51.37:785][934]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.10.13-02.51.37:794][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.10.13-02.51.38:232][934]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.10.13-02.51.38:232][934]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.13-02.51.38:232][934]LogLevel: Display: Export Material TexCoord Scales took 0.030 seconds.
+[2021.10.13-02.51.38:234][934]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2021.10.13-02.51.38:241][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.10.13-02.51.38:242][934]LightingResults: New page: Lighting Build - Oct 12, 2021, 4:51:38 PM
+[2021.10.13-02.51.38:250][934]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.13-02.51.38:256][934]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.13-02.51.38:256][934]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.13-02.51.38:257][934]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.13-02.51.38:257][934]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4892
+[2021.10.13-02.51.42:817][934]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.13-02.51.42:817][934]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.13-02.51.42:817][934]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.13-02.51.42:817][934]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.13-02.51.42:817][934]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.13-02.51.42:977][934]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.10.13-02.51.42:977][934]MapCheck: New page: NewMap - Oct 12, 2021, 4:51:42 PM
+[2021.10.13-02.51.42:978][934]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2021.10.13-02.51.42:978][934]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.683ms to complete.
+[2021.10.13-02.51.42:981][934]LogEditorBuildUtils: Build time 0:05
+[2021.10.13-02.51.43:068][934]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Lamp in PCD3D_SM5, Default, SM5 (DDC key hash: 8F22575E41998286D7E96E84A95E4B5B6BB4A506), compiling. 
+[2021.10.13-02.51.43:072][934]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.13-02.51.43:073][934]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Lamp in PCD3D_SM5, Default, SM5 (DDC key hash: A7AFFEB3E14BB33E2148A68797CCE78893FCF135), compiling. 
+[2021.10.13-02.51.43:081][934]LogShaderCompilers: Display: Started 2 'XGE' shader compile jobs with 'Low' priority
+[2021.10.13-02.51.43:081][934]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.13-02.51.43:141][934]LogShaderCompilers: Display: Started 2 'XGE' shader compile jobs with 'Low' priority
+[2021.10.13-02.51.43:162][935]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Frame in PCD3D_SM5, Default, SM5 (DDC key hash: 937668CBF0158E1B071C4FF78F99963D9ECB53D0), compiling. 
+[2021.10.13-02.51.43:168][935]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.13-02.51.43:169][935]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Frame in PCD3D_SM5, Default, SM5 (DDC key hash: BFDFE8512B0C5280DBC41B2F48F07615C9FFB101), compiling. 
+[2021.10.13-02.51.43:176][935]LogShaderCompilers: Display: Started 2 'XGE' shader compile jobs with 'Low' priority
+[2021.10.13-02.51.43:177][935]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.13-02.51.43:231][935]LogShaderCompilers: Display: Started 2 'XGE' shader compile jobs with 'Low' priority
+[2021.10.13-02.51.43:261][936]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Bush in PCD3D_SM5, Default, SM5 (DDC key hash: C5F7AFFCAD8899C4832A96C87D04492E680E4C60), compiling. 
+[2021.10.13-02.51.43:269][936]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.13-02.51.43:271][936]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Bush in PCD3D_SM5, Default, SM5 (DDC key hash: 233CB74DB0AB4254002E03B4CEA1F54449727629), compiling. 
+[2021.10.13-02.51.43:276][936]LogShaderCompilers: Display: Started 2 'XGE' shader compile jobs with 'Low' priority
+[2021.10.13-02.51.43:276][936]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.13-02.51.43:279][936]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Bush in PCD3D_SM5, Default, SM5 (DDC key hash: 0C0B314F8E895F65EB73D2225B3B5DCD2791C7B0), compiling. 
+[2021.10.13-02.51.43:286][936]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.13-02.51.43:347][936]LogShaderCompilers: Display: Started 4 'XGE' shader compile jobs with 'Low' priority
+[2021.10.13-02.51.54:143][938]LogSlate: Window 'Message Log' being destroyed
+[2021.10.13-02.51.54:146][938]LogSlate: Window 'Message Log' being destroyed
+[2021.10.13-02.51.54:655][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.10.13-02.51.58:384][ 59]Job is a success!
+[2021.10.13-02.51.58:561][ 60]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2021.10.13-02.51.58:561][ 60]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.10.13-02.51.58:561][ 60]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.10.13-02.51.58:561][ 60]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.13-02.51.58:561][ 60]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2021.10.13-02.51.58:561][ 60]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2021.10.13-02.51.58:561][ 60]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2021.10.13-02.51.58:561][ 60]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.13-02.51.58:561][ 60]LogVolumetricLightmapImport:          NewMap 			 10 bricks 	 100.0% (Persistent Level)
+[2021.10.13-02.51.58:754][ 60]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2021.10.13-02.51.58:754][ 60]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2021.10.13-02.51.58:754][ 60]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 256X256)
+[2021.10.13-02.51.58:754][ 60]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.13-02.51.58:754][ 60]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.13-02.51.58:754][ 60]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 256X256)
+[2021.10.13-02.51.58:830][ 60]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X128)
+[2021.10.13-02.51.58:830][ 60]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X128)
+[2021.10.13-02.51.58:831][ 60]LogStaticLightingSystem: NewMap_BuiltData storing lightmap data for 16 meshes in 3 LightmapResourceClusters (5.3 Meshes per cluster).
+[2021.10.13-02.51.58:848][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.10.13-02.51.58:874][ 60]Lightmass on DESKTOP-AIS90Q9: 3.15 sec total, 331 ms importing, 53 ms setup, 445 ms photons, 2.28 sec processing, 0 ms extra exporting [18/18 mappings]. Threads: 15.9 sec total, 7.66 sec processing.
+[2021.10.13-02.51.58:918][ 60]LogStaticLightingSystem: Illumination: 20.5 sec (200 ms encoding lightmaps, 40 ms encoding shadowmaps)
+[2021.10.13-02.51.58:918][ 60]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.0 MB streaming, 0.1 MB non-streaming), 4 textures
+[2021.10.13-02.51.58:918][ 60]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.10.13-02.51.59:834][ 60]DumpUnbuiltLightIteractions
+[2021.10.13-02.51.59:834][ 60]Lights with unbuilt interactions: 0
+[2021.10.13-02.51.59:834][ 60]
+[2021.10.13-02.51.59:834][ 60]Primitives with unbuilt interactions: 0
+[2021.10.13-02.51.59:879][ 61]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.13-02.51.59:879][ 61]MapCheck: New page: NewMap - Oct 12, 2021, 4:51:59 PM
+[2021.10.13-02.51.59:880][ 61]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.404ms to complete.
+[2021.10.13-02.59.15:492][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.13-02.59.15:494][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/Autosaves/Game/NewMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.13-02.59.15:502][489]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/NewMap_Auto28D054881473A77EE2B0283BCEA91E2B2.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/Autosaves/Game/NewMap_Auto2.umap'
+[2021.10.13-02.59.15:504][489]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.019
+[2021.10.13-02.59.15:504][489]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2021.10.13-03.09.15:846][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.10.13-03.09.15:849][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/Autosaves/Game/NewMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.13-03.09.15:861][700]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/NewMap_Auto3BD0F7DB04216AFA9CB907D90B9653BFF.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/Autosaves/Game/NewMap_Auto3.umap'
+[2021.10.13-03.09.15:864][700]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.024
+[2021.10.13-03.09.15:864][700]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2021.10.13-03.19.16:388][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.10.13-03.19.16:389][495]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.011
+[2021.10.13-03.29.17:057][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.10.13-03.29.17:059][288]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.011
+[2021.10.13-03.39.17:689][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.10.13-03.39.17:690][ 83]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.008
+[2021.10.13-03.49.18:091][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.10.13-03.49.18:092][875]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.008
+[2021.10.13-03.59.18:798][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.10.13-03.59.18:799][665]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.007
+[2021.10.13-04.09.19:291][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.10.13-04.09.19:292][514]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.009
+[2021.10.13-04.19.19:934][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.10.13-04.19.19:935][323]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.009
+[2021.10.13-04.29.20:491][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.10.13-04.29.20:492][113]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.008
