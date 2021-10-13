@@ -1424,3 +1424,108 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.13-02.35.59:518][216]Cmd: MAP CHECK NOTIFYRESULTS
 [2021.10.13-02.35.59:518][216]MapCheck: New page: NewMap - Oct 12, 2021, 4:35:59 PM
 [2021.10.13-02.35.59:518][216]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.378ms to complete.
+[2021.10.13-02.38.35:777][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x400)
+[2021.10.13-02.38.41:060][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x401)
+[2021.10.13-02.40.04:553][866]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+[2021.10.13-02.40.06:759][963]LogSlate: Window 'Wall_400x400' being destroyed
+[2021.10.13-02.40.06:799][963]LogSlate: Window 'Wall_400x400' being destroyed
+[2021.10.13-02.40.06:802][963]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.10.13-02.40.06:802][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.13-02.40.08:073][ 26]LogActorFactory: Actor Factory created Wall_400x400
+[2021.10.13-02.40.08:802][ 70]LogActorFactory: Actor Factory created Wall_400x400
+[2021.10.13-02.41.38:450][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.13-02.41.38:457][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.10.13-02.41.38:469][506]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/NewMapFB2264A54AC114881BAA8A888BFC7E75.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Content/NewMap.umap'
+[2021.10.13-02.41.38:476][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Content/NewMap_BuiltData.uasset" SILENT=true
+[2021.10.13-02.41.38:497][506]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/NewMap_BuiltData9032DEBB43DBE9FFF1E20A88F9D231A5.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Content/NewMap_BuiltData.uasset'
+[2021.10.13-02.41.38:509][506]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.13-02.41.38:509][506]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2021.10.13-02.41.38:509][506]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2021.10.13-02.41.40:843][636]MapCheck: New page: Map Check
+[2021.10.13-02.41.40:872][636]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.13-02.41.40:872][636]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.13-02.41.40:873][636]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=false
+[2021.10.13-02.41.40:882][636]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.10.13-02.41.40:882][636]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.10.13-02.41.40:882][636]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.10.13-02.41.40:890][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.10.13-02.41.40:893][636]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2021.10.13-02.41.40:894][636]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2021.10.13-02.41.40:899][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.10.13-02.41.40:902][636]LightingResults: New page: Lighting Build - Oct 12, 2021, 4:41:40 PM
+[2021.10.13-02.41.40:908][636]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.13-02.41.40:912][636]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.13-02.41.40:912][636]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.13-02.41.40:913][636]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.13-02.41.40:913][636]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4892
+[2021.10.13-02.41.45:458][636]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.13-02.41.45:458][636]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.13-02.41.45:458][636]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.13-02.41.45:458][636]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.13-02.41.45:458][636]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.13-02.41.45:579][636]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.10.13-02.41.45:579][636]MapCheck: New page: NewMap - Oct 12, 2021, 4:41:45 PM
+[2021.10.13-02.41.45:579][636]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2021.10.13-02.41.45:580][636]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.682ms to complete.
+[2021.10.13-02.41.45:582][636]LogEditorBuildUtils: Build time 0:04
+[2021.10.13-02.41.45:660][636]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.13-02.41.45:660][636]LogShaderCompilers: Display: Total job queries 42, among them cache hits 1 (2.38%)
+[2021.10.13-02.41.45:660][636]LogShaderCompilers: Display: Tracking 41 distinct input hashes that result in 27 distinct outputs (65.85%)
+[2021.10.13-02.41.45:660][636]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2021.10.13-02.41.45:660][636]LogShaderCompilers: Display: ================================================
+[2021.10.13-02.41.45:765][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.13-02.41.47:758][642]Job is a success!
+[2021.10.13-02.41.48:229][643]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2021.10.13-02.41.48:229][643]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.10.13-02.41.48:229][643]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.10.13-02.41.48:229][643]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.13-02.41.48:229][643]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2021.10.13-02.41.48:229][643]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2021.10.13-02.41.48:229][643]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2021.10.13-02.41.48:229][643]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.13-02.41.48:229][643]LogVolumetricLightmapImport:          NewMap 			 10 bricks 	 100.0% (Persistent Level)
+[2021.10.13-02.41.48:335][643]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 512X512)
+[2021.10.13-02.41.48:336][643]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 512X512)
+[2021.10.13-02.41.48:336][643]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 256X256)
+[2021.10.13-02.41.48:336][643]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 256X256)
+[2021.10.13-02.41.48:336][643]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X128)
+[2021.10.13-02.41.48:336][643]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X128)
+[2021.10.13-02.41.48:337][643]LogStaticLightingSystem: NewMap_BuiltData storing lightmap data for 11 meshes in 3 LightmapResourceClusters (3.7 Meshes per cluster).
+[2021.10.13-02.41.48:351][643]Lightmass on DESKTOP-AIS90Q9: 1.58 sec total, 160 ms importing, 20 ms setup, 131 ms photons, 1.25 sec processing, 0 ms extra exporting [13/13 mappings]. Threads: 8.78 sec total, 1.40 sec processing.
+[2021.10.13-02.41.48:352][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.10.13-02.41.48:383][643]LogStaticLightingSystem: Illumination: 7.11 sec (52 ms encoding lightmaps, 39 ms encoding shadowmaps)
+[2021.10.13-02.41.48:383][643]LogStaticLightingSystem: Lightmap texture memory:  0.6 MB (0.5 MB streaming, 0.1 MB non-streaming), 4 textures
+[2021.10.13-02.41.48:383][643]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.10.13-02.41.48:460][643]DumpUnbuiltLightIteractions
+[2021.10.13-02.41.48:460][643]Lights with unbuilt interactions: 0
+[2021.10.13-02.41.48:460][643]
+[2021.10.13-02.41.48:460][643]Primitives with unbuilt interactions: 0
+[2021.10.13-02.41.48:510][644]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.13-02.41.48:510][644]MapCheck: New page: NewMap - Oct 12, 2021, 4:41:48 PM
+[2021.10.13-02.41.48:511][644]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.403ms to complete.
+[2021.10.13-02.44.18:009][125]LogSlate: Window 'Message Log' being destroyed
+[2021.10.13-02.44.18:036][125]LogSlate: Window 'Message Log' being destroyed
+[2021.10.13-02.44.39:883][819]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling
+[2021.10.13-02.44.42:427][932]LogSlate: Window 'SM_Lamp_Ceiling' being destroyed
+[2021.10.13-02.44.42:459][932]LogSlate: Window 'SM_Lamp_Ceiling' being destroyed
+[2021.10.13-02.44.42:463][932]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.10.13-02.44.42:463][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.13-02.44.43:695][996]LogActorFactory: Actor Factory created SM_Lamp_Ceiling
+[2021.10.13-02.44.44:119][ 21]LogActorFactory: Actor Factory created SM_Lamp_Ceiling
+[2021.10.13-02.46.24:130][647]LogActorFactory: Actor Factory created SM_WindowFrame
+[2021.10.13-02.46.27:801][868]LogActorFactory: Actor Factory created SM_WindowFrame
+[2021.10.13-02.47.03:927][ 35]Cmd: EDIT COPY
+[2021.10.13-02.47.04:761][ 85]Cmd: EDIT PASTE
+[2021.10.13-02.47.13:227][593]Cmd: TRANSACTION UNDO
+[2021.10.13-02.47.13:227][593]LogEditorTransaction: Undo Move Actors
+[2021.10.13-02.47.22:379][ 84]LogActorFactory: Actor Factory created SM_DoorFrame
+[2021.10.13-02.47.25:685][283]LogActorFactory: Actor Factory created SM_DoorFrame
+[2021.10.13-02.47.48:045][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2021.10.13-02.49.13:819][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.13-02.49.13:828][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.10.13-02.49.13:843][505]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/NewMap3CFD805046789852E3DF4197CE078E98.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Content/NewMap.umap'
+[2021.10.13-02.49.13:849][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Content/NewMap_BuiltData.uasset" SILENT=true
+[2021.10.13-02.49.13:871][505]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/NewMap_BuiltData1EDAA9BD441B3858D72A6E967ADB36F0.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Content/NewMap_BuiltData.uasset'
+[2021.10.13-02.49.13:889][505]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.13-02.49.13:889][505]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2021.10.13-02.49.13:889][505]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
