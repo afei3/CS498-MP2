@@ -1936,3 +1936,262 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.15-18.28.16:816][ 82]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.15-18.28.16:816][ 82]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
 [2021.10.15-18.28.16:816][ 82]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2021.10.15-18.46.11:976][260]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.10.15-18.46.47:658][384]Cmd: TRANSACTION UNDO
+[2021.10.15-18.46.47:658][384]LogEditorTransaction: Undo Rotate Actors
+[2021.10.15-18.48.47:347][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.10.15-18.48.47:351][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/Autosaves/Game/NewMap_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.15-18.48.47:386][604]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/NewMap_Auto92B572FFC4AEC3F6BBFB161870B7622B5.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/Autosaves/Game/NewMap_Auto9.umap'
+[2021.10.15-18.48.47:389][604]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.050
+[2021.10.15-18.48.47:389][604]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2021.10.15-18.59.58:344][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2021.10.15-19.00.14:643][836]Cmd: TRANSACTION UNDO
+[2021.10.15-19.00.14:643][836]LogEditorTransaction: Undo Edit Occlusion Exponent
+[2021.10.15-19.01.04:810][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.10.15-19.01.04:814][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/Autosaves/Game/NewMap_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.15-19.01.04:849][408]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/NewMap_Auto072A2ECAC493FB5966E91A5BEF96CC40B.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/Autosaves/Game/NewMap_Auto0.umap'
+[2021.10.15-19.01.04:851][408]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.049
+[2021.10.15-19.01.04:851][408]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2021.10.15-19.03.56:027][588]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.15-19.04.08:124][314]Cmd: TRANSACTION UNDO
+[2021.10.15-19.04.08:124][314]LogEditorTransaction: Undo Set Location
+[2021.10.15-19.04.17:107][816]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.15-19.04.19:373][952]Cmd: TRANSACTION UNDO
+[2021.10.15-19.04.19:373][952]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.15-19.05.56:358][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.15-19.05.56:369][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.10.15-19.05.56:421][687]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/NewMap1E572CF34B719B0C23DA2F9C3EA9CCE7.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Content/NewMap.umap'
+[2021.10.15-19.05.56:433][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Content/NewMap_BuiltData.uasset" SILENT=true
+[2021.10.15-19.05.56:803][687]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/NewMap_BuiltData6782821D4030290D3EB130BD1AB8496F.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Content/NewMap_BuiltData.uasset'
+[2021.10.15-19.05.56:824][687]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.15-19.05.56:824][687]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2021.10.15-19.05.56:824][687]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2021.10.15-19.06.00:178][866]MapCheck: New page: Map Check
+[2021.10.15-19.06.00:197][866]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.15-19.06.00:197][866]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.15-19.06.00:201][866]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=false
+[2021.10.15-19.06.00:215][866]LightingResults: New page: Lighting Build - Oct 15, 2021, 9:06:00 AM
+[2021.10.15-19.06.00:224][866]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.15-19.06.00:228][866]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.15-19.06.00:228][866]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.15-19.06.00:230][866]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.15-19.06.00:230][866]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22272
+[2021.10.15-19.06.04:808][866]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.15-19.06.04:808][866]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.15-19.06.04:808][866]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.15-19.06.04:808][866]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.15-19.06.04:808][866]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.15-19.06.04:949][866]LogEditorBuildUtils: Build time 0:04
+[2021.10.15-19.06.04:965][866]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.15-19.06.04:965][866]LogShaderCompilers: Display: Total job queries 403, among them cache hits 52 (12.90%)
+[2021.10.15-19.06.04:965][866]LogShaderCompilers: Display: Tracking 351 distinct input hashes that result in 229 distinct outputs (65.24%)
+[2021.10.15-19.06.04:965][866]LogShaderCompilers: Display: RAM used: 1.55 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.19%
+[2021.10.15-19.06.04:965][866]LogShaderCompilers: Display: ================================================
+[2021.10.15-19.06.05:366][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.10.15-19.06.17:968][904]Job is a success!
+[2021.10.15-19.06.18:462][905]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2021.10.15-19.06.18:462][905]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.10.15-19.06.18:462][905]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2021.10.15-19.06.18:462][905]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.15-19.06.18:462][905]LogVolumetricLightmapImport:          0: 11.1% covering 100.0% of volume
+[2021.10.15-19.06.18:462][905]LogVolumetricLightmapImport:          1: 44.4% covering 6.2% of volume
+[2021.10.15-19.06.18:462][905]LogVolumetricLightmapImport:          2: 44.4% covering 0.1% of volume
+[2021.10.15-19.06.18:462][905]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.15-19.06.18:462][905]LogVolumetricLightmapImport:          NewMap 			 9 bricks 	 100.0% (Persistent Level)
+[2021.10.15-19.06.19:351][905]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2021.10.15-19.06.19:351][905]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2021.10.15-19.06.19:351][905]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.15-19.06.19:351][905]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.15-19.06.19:351][905]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2021.10.15-19.06.19:351][905]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 1024X512)
+[2021.10.15-19.06.19:352][905]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2021.10.15-19.06.19:352][905]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2021.10.15-19.06.19:352][905]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 1024X512)
+[2021.10.15-19.06.19:352][905]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2021.10.15-19.06.19:352][905]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.15-19.06.19:352][905]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.15-19.06.19:352][905]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.15-19.06.19:352][905]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.15-19.06.19:352][905]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.15-19.06.19:352][905]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.15-19.06.19:352][905]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2021.10.15-19.06.19:352][905]LogTexture: Display: Building textures: SkyOcclusion0_4 (OODLE_AutoDXT, 64X32)
+[2021.10.15-19.06.19:352][905]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 64X64)
+[2021.10.15-19.06.19:352][905]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 64X64)
+[2021.10.15-19.06.19:352][905]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.15-19.06.19:551][905]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2021.10.15-19.06.19:551][905]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 256X512)
+[2021.10.15-19.06.19:759][905]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X1024)
+[2021.10.15-19.06.19:765][905]LogStaticLightingSystem: NewMap_BuiltData storing lightmap data for 97 meshes in 5 LightmapResourceClusters (19.4 Meshes per cluster).
+[2021.10.15-19.06.19:781][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.10.15-19.06.19:803][905]Lightmass on DESKTOP-AIS90Q9: 13.3 sec total, 342 ms importing, 39 ms setup, 1.33 sec photons, 11.5 sec processing, 0 ms extra exporting [99/99 mappings]. Threads: 1:20 min total, 50.1 sec processing.
+[2021.10.15-19.06.19:813][905]LogStaticLightingSystem: Illumination: 19.2 sec (764 ms encoding lightmaps, 388 ms encoding shadowmaps)
+[2021.10.15-19.06.19:814][905]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (5.3 MB streaming, 2.7 MB non-streaming), 8 textures
+[2021.10.15-19.06.19:814][905]LogStaticLightingSystem: Shadowmap texture memory: 6.0 MB (5.3 MB streaming, 0.7 MB non-streaming), 3 textures
+[2021.10.15-19.06.19:836][905]DumpUnbuiltLightIteractions
+[2021.10.15-19.06.19:836][905]Lights with unbuilt interactions: 0
+[2021.10.15-19.06.19:836][905]
+[2021.10.15-19.06.19:836][905]Primitives with unbuilt interactions: 0
+[2021.10.15-19.06.19:897][906]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.15-19.06.19:897][906]MapCheck: New page: NewMap - Oct 15, 2021, 9:06:19 AM
+[2021.10.15-19.06.19:898][906]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.327ms to complete.
+[2021.10.15-19.15.58:109][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.10.15-19.15.58:110][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/Autosaves/Game/NewMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.15-19.15.58:145][633]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/NewMap_Auto19EAB2F5F40F4874F7E49D49CC0205E07.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/Autosaves/Game/NewMap_Auto1.umap'
+[2021.10.15-19.15.58:147][633]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.047
+[2021.10.15-19.15.58:147][633]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2021.10.15-19.25.58:575][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.10.15-19.25.58:576][427]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.009
+[2021.10.15-19.35.59:220][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.10.15-19.35.59:222][556]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.009
+[2021.10.15-19.45.59:636][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.10.15-19.45.59:636][350]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.008
+[2021.10.15-19.56.00:135][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.10.15-19.56.00:136][144]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.007
+[2021.10.15-20.06.00:685][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.10.15-20.06.00:687][987]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.008
+[2021.10.15-20.16.01:267][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.10.15-20.16.01:268][779]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.007
+[2021.10.15-20.26.01:867][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.10.15-20.26.01:869][573]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.008
+[2021.10.15-20.36.02:485][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.10.15-20.36.02:485][367]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.007
+[2021.10.15-20.46.03:182][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.10.15-20.46.03:183][161]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.007
+[2021.10.15-20.56.03:848][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.10.15-20.56.03:849][951]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.007
+[2021.10.15-21.06.04:517][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.10.15-21.06.04:517][743]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.008
+[2021.10.15-21.16.05:163][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.10.15-21.16.05:164][537]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.007
+[2021.10.15-21.26.05:679][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.10.15-21.26.05:680][369]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.008
+[2021.10.15-21.32.16:365][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x311)
+[2021.10.15-21.32.19:031][462]Cmd: EDIT COPY
+[2021.10.15-21.32.22:698][680]Cmd: EDIT PASTE
+[2021.10.15-21.32.46:147][ 81]Cmd: TRANSACTION UNDO
+[2021.10.15-21.32.46:147][ 81]LogEditorTransaction: Undo Move Actors
+[2021.10.15-21.32.46:504][ 88]Cmd: TRANSACTION UNDO
+[2021.10.15-21.32.46:504][ 88]LogEditorTransaction: Undo Move Actors
+[2021.10.15-21.32.47:495][130]Cmd: TRANSACTION UNDO
+[2021.10.15-21.32.47:495][130]LogEditorTransaction: Undo Move Actors
+[2021.10.15-21.32.48:466][189]Cmd: TRANSACTION UNDO
+[2021.10.15-21.32.48:466][189]LogEditorTransaction: Undo Paste
+[2021.10.15-21.32.57:281][717]Cmd: TRANSACTION UNDO
+[2021.10.15-21.32.57:281][717]LogEditorTransaction: Undo Move Actors
+[2021.10.15-21.33.35:680][805]Cmd: TRANSACTION UNDO
+[2021.10.15-21.33.35:680][805]LogEditorTransaction: Undo Set Scale
+[2021.10.15-21.33.45:630][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x312)
+[2021.10.15-21.33.51:780][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x314)
+[2021.10.15-21.33.58:263][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x316)
+[2021.10.15-21.34.17:580][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x403)
+[2021.10.15-21.36.06:333][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.10.15-21.36.06:336][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/Autosaves/Game/NewMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.15-21.36.06:370][200]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/NewMap_Auto2B8AFF59D4FFA7346A8086DB5B6A44F2C.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/Autosaves/Game/NewMap_Auto2.umap'
+[2021.10.15-21.36.06:373][200]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.047
+[2021.10.15-21.36.06:373][200]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2021.10.15-21.39.27:284][228]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.15-21.39.46:696][388]Cmd: TRANSACTION UNDO
+[2021.10.15-21.39.46:696][388]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.15-21.39.48:315][471]Cmd: TRANSACTION UNDO
+[2021.10.15-21.39.48:315][471]LogEditorTransaction: Undo Set Location
+[2021.10.15-21.40.33:962][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x406)
+[2021.10.15-21.40.45:413][808]LogMaterial: Display: Missing cached shadermap for M_Ceramic_Tile_Checker in PCD3D_SM5, Default, SM5 (DDC key hash: 054EC83A29273A7C905A51307FEDBE40E21D12B3), compiling. 
+[2021.10.15-21.40.45:445][808]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.10.15-21.40.45:461][809]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.10.15-21.40.45:461][809]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.10.15-21.40.45:461][809]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2021.10.15-21.40.45:461][809]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.10.15-21.40.45:461][809]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2021.10.15-21.40.45:461][809]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.15-21.40.46:537][853]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.10.15-21.40.46:537][853]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.15-21.40.46:540][853]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.15-21.40.46:540][853]LogShaderCompilers: Display: Total job queries 428, among them cache hits 52 (12.15%)
+[2021.10.15-21.40.46:541][853]LogShaderCompilers: Display: Tracking 352 distinct input hashes that result in 229 distinct outputs (65.06%)
+[2021.10.15-21.40.46:541][853]LogShaderCompilers: Display: RAM used: 1.55 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.19%
+[2021.10.15-21.40.46:541][853]LogShaderCompilers: Display: ================================================
+[2021.10.15-21.40.46:911][876]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.10.15-21.40.46:911][876]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.10.15-21.40.47:507][913]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.10.15-21.40.47:507][913]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.10.15-21.40.49:523][ 34]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.10.15-21.40.49:523][ 34]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.10.15-21.40.49:645][ 41]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.10.15-21.40.49:645][ 41]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.15-21.40.50:008][ 63]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.10.15-21.40.50:008][ 63]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.15-21.40.50:412][ 87]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.10.15-21.40.50:413][ 87]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.15-21.40.55:897][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x402)
+[2021.10.15-21.40.58:939][563]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Pebble in PCD3D_SM5, Default, SM5 (DDC key hash: 0C25B61D37561A7E0E0FDD56EAC3F9BD2BE71B54), compiling. 
+[2021.10.15-21.40.58:967][563]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.10.15-21.40.58:969][563]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.10.15-21.40.58:969][563]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.10.15-21.40.58:969][563]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2021.10.15-21.40.58:969][563]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.10.15-21.40.58:969][563]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2021.10.15-21.40.58:969][563]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.15-21.40.58:969][563]LogShaderCompilers: Display: Started 11 'XGE' shader compile jobs with 'Normal' priority
+[2021.10.15-21.40.59:979][617]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.10.15-21.40.59:979][617]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.15-21.41.04:166][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x403)
+[2021.10.15-21.41.07:346][ 38]Cmd: DELETE
+[2021.10.15-21.41.07:346][ 38]Cmd: ACTOR DELETE
+[2021.10.15-21.41.07:351][ 38]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.15-21.41.07:359][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.10.15-21.41.07:362][ 38]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.10.15-21.41.15:384][471]LogActorFactory: Actor Factory created Wall_Window_400x400
+[2021.10.15-21.41.18:704][671]LogActorFactory: Actor Factory created Wall_Window_400x400
+[2021.10.15-21.41.54:552][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x402)
+[2021.10.15-21.42.03:494][311]LogMaterial: Display: Missing cached shadermap for M_Concrete_Panels in PCD3D_SM5, Default, SM5 (DDC key hash: DA369B21A11B560AF6CB626925B104D0B98552A2), compiling. 
+[2021.10.15-21.42.03:522][311]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.10.15-21.42.03:524][311]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.10.15-21.42.03:524][311]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.10.15-21.42.03:524][311]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2021.10.15-21.42.03:524][311]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.10.15-21.42.03:524][311]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2021.10.15-21.42.03:524][311]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.15-21.42.04:523][369]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.10.15-21.42.04:523][369]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.15-21.42.04:975][396]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.10.15-21.42.04:975][396]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.10.15-21.42.05:523][429]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.10.15-21.42.05:523][429]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.10.15-21.42.07:058][521]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.10.15-21.42.07:058][521]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.10.15-21.42.07:642][556]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.10.15-21.42.07:642][556]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.15-21.42.08:114][584]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.10.15-21.42.08:114][584]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.15-21.42.08:729][621]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.10.15-21.42.08:729][621]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.15-21.45.41:248][161]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.15-21.45.47:366][527]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.15-21.45.48:782][612]Cmd: TRANSACTION UNDO
+[2021.10.15-21.45.48:782][612]LogEditorTransaction: Undo Edit Zenith Color
+[2021.10.15-21.45.57:465][114]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.15-21.46.01:480][351]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2021.10.15-21.46.40:602][671]LogActorFactory: Actor Factory created SM_Chair
+[2021.10.15-21.46.41:922][743]LogActorFactory: Actor Factory created SM_Chair
+[2021.10.15-21.46.54:316][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x407)
+[2021.10.15-21.46.55:145][514]Cmd: DELETE
+[2021.10.15-21.46.55:145][514]Cmd: ACTOR DELETE
+[2021.10.15-21.46.55:154][514]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.15-21.46.55:167][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.10.15-21.46.55:170][514]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.10.15-21.46.57:263][605]Cmd: TRANSACTION UNDO
+[2021.10.15-21.46.57:263][605]LogEditorTransaction: Undo Delete Actors
+[2021.10.15-21.46.57:969][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x407)
+[2021.10.15-21.47.14:058][509]LogActorFactory: Actor Factory created SM_PillarFrame300
+[2021.10.15-21.47.16:307][640]LogActorFactory: Actor Factory created SM_PillarFrame300
+[2021.10.15-21.47.17:045][683]Cmd: DELETE
+[2021.10.15-21.47.17:045][683]Cmd: ACTOR DELETE
+[2021.10.15-21.47.17:051][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.15-21.47.17:063][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.10.15-21.47.17:064][683]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.10.15-21.47.52:365][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.10.15-21.47.52:367][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/Autosaves/Game/NewMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.15-21.47.52:399][428]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/NewMap_Auto3DBB61EC64EFED7F1AED288AFD7DA4D35.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP2/LevelDesignProject/Saved/Autosaves/Game/NewMap_Auto3.umap'
+[2021.10.15-21.47.52:401][428]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.043
+[2021.10.15-21.47.52:401][428]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
